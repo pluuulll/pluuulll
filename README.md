@@ -1,4 +1,4 @@
-## Hola Soy Nicolas,Estudiante de Ingeniería en Informática👋
+## Hola Soy Nicolas, Estudiante de Ingeniería en Informática👋
 
 <!--
 **pluuulll/pluuulll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
