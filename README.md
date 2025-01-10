@@ -18,11 +18,6 @@
             <li>Java</li>
             <li>JavaScript</li>
         </ul>
-        <ul>
-            <li>Python</li>
-            <li>Java</li>
-            <li>JavaScript</li>
-        </ul>
         <h2>Desarrollo web</h2>
         <ul>
             <li>HTML</li>
