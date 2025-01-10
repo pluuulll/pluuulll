@@ -23,16 +23,14 @@
             <li>CSS</li>
             <li>Ionic</li>
             <li>Angular</li>
-            <li>Django</li>
         </ul>
-
         <h2>Bases de datos</h2>
         <ul>
             <li>SQL</li>
             <li>MySQL</li>
             <li>SQLite</li>
+            <li>Django</li>
         </ul>
-
         <h2>Desarrollo móvil</h2>
         <ul>
             <li>Android Studio</li>
