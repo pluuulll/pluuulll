@@ -9,9 +9,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Biografia</h1>
-        <h2>Nicolás Vergara, de 21 años, es estudiante de Ingeniería en Informática en Duoc UC. Apasionado por la tecnología y el desarrollo de soluciones innovadoras, está en constante aprendizaje para
-        destacar en el mundo de la informática y contribuir al avance tecnológico.</h2>    
+        <h1>Biografía</h1>
+    <p>Nicolás Vergara, de 21 años, es estudiante de <strong>Ingeniería en Informática</strong> en <strong>Duoc UC</strong>. Apasionado por la tecnología y el desarrollo de soluciones innovadoras, está en constante aprendizaje para destacar en el mundo de la informática y contribuir al avance tecnológico.</p>    
         <h1>Tecnologías en las que he trabajado</h1>
         <ul>
             <li>Python</li>
