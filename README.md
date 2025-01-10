@@ -12,6 +12,12 @@
         <h1>Biografía</h1>
     <p>Hola Me Llamo Nicolás Vergara, Tengo 21 años, Soy estudiante de <strong>Ingeniería en Informática</strong> en <strong>Duoc UC</strong>. Apasionado por la tecnología y el desarrollo de soluciones innovadoras, está en constante aprendizaje para destacar en el mundo de la informática y contribuir al avance tecnológico.</p>    
         <h1>Tecnologías en las que he trabajado</h1>
+        <h2>Lenguajes de programación</h2>
+        <ul>
+            <li>Python</li>
+            <li>Java</li>
+            <li>JavaScript</li>
+        </ul>
         <ul>
             <li>Python</li>
             <li>Java</li>
