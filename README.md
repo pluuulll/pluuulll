@@ -25,7 +25,6 @@
         </ul>
         <h2>Bases de datos</h2>
         <ul>
-            <li>SQL</li>
             <li>MySQL</li>
             <li>SQLite</li>
             <li>Django</li>
