@@ -19,8 +19,6 @@
         <ul>
             <li>HTML</li>
             <li>CSS</li>
-            <li>Ionic</li>
-            <li>Angular</li>
         </ul>
         <h2>Bases de datos</h2>
         <ul>
@@ -31,6 +29,8 @@
         </ul>
         <h2>Desarrollo móvil</h2>
         <ul>
+             <li>Ionic</li>
+            <li>Angular</li>
             <li>Android Studio</li>
         </ul>
     </div>
